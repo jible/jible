@@ -1,6 +1,5 @@
 - 👋 Hi, I’m James
 - 👀 I’m interested in gaming, reading, and volleyball
-- 🌱 I’m currently learning Unity
 
 <!---
 jible/jible is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
